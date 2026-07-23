@@ -58,6 +58,9 @@ La interfaz fue maquetada para ajustarse a diferentes resoluciones:
 - En dispositivos móviles, el contenido se reorganiza verticalmente.
 - El encabezado, los textos, las imágenes y el pie de página se adaptan al ancho disponible.
 
+- <img width="400" height="2622" alt="image" src="https://github.com/user-attachments/assets/84f26e94-2efb-4bd7-b2c8-e015846d8a8f" />
+
+
 ## Objetivo del proyecto
 
 Practicar la creación de interfaces web responsive a partir de un diseño visual, aplicando HTML semántico, organización de estilos con Less y ajustes de maquetación para diferentes dispositivos.
