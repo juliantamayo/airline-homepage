@@ -1,4 +1,4 @@
-# Airline Homepage
+# Airline Homepage Responsive
 
 Landing page responsive para una aerolínea ficticia, desarrollada como proyecto de práctica de maquetación web.
 
